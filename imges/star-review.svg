@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_372" data-name="Rectangle 372" width="16" height="16" transform="translate(0 -0.11)" fill="#fbcc32"/>
+    </clipPath>
+  </defs>
+  <g id="star-review" transform="translate(0 0.11)" clip-path="url(#clip-path)">
+    <path id="star" d="M-95.889,80.855c-.565.4-4.193-2.15-4.887-2.155s-4.363,2.488-4.922,2.076.755-4.64.545-5.3-3.721-3.369-3.5-4.026,4.659-.718,5.224-1.121,2.063-4.57,2.758-4.564,2.125,4.2,2.683,4.608,5,.544,5.206,1.2-3.346,3.312-3.566,3.969S-95.324,80.452-95.889,80.855Z" transform="translate(108.664 -65.386)" fill="#fbcc32"/>
+  </g>
+</svg>
